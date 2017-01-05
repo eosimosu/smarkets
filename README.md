@@ -1,8 +1,5 @@
-smarkets
+smarkets excercise
 ===============
-
-Interview Exercise
-
 
 These are the apis available with description:
 
