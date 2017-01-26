@@ -11,7 +11,7 @@ These are the apis available with description:
     /users/{userId}/bets :- All bets by userI
 
 
-Interview Questions:
+Questions:
 
     Find the affiliate with the maximum number of users.
     Find the amount won by users coming through the top 3 affiliates - by user_count.
